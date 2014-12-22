@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Tvvo sermons vvherein we are taught, 1. Hovv to get, 2. How to keepe, 3. How to vse a good conscienc
+
+1. To the Printer.
+
 #####Body#####
-Tvvo sermons vvherein we are taught, 1. Hovv to get, 2. How to keepe, 3. How to vse a good conscienc
+
+1. TWO SERMONS, VVHEREIN VVE are taught, 1. How to get, 2. How to keepe, 3. How to vſe a good CONSCIENCE.
+
+1. THE SECOND SERMON: Wherein is taught, how to vſe a good CONSCIENCE.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
